@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cannellella/movie.git/static/css/main.29cb39da.css",
+    "main.js": "/cannellella/movie.git/static/js/main.2ad48440.js",
+    "index.html": "/cannellella/movie.git/index.html",
+    "main.29cb39da.css.map": "/cannellella/movie.git/static/css/main.29cb39da.css.map",
+    "main.2ad48440.js.map": "/cannellella/movie.git/static/js/main.2ad48440.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cb39da.css",
+    "static/js/main.2ad48440.js"
+  ]
+}
